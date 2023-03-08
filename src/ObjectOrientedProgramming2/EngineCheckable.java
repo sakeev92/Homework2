@@ -1,5 +1,4 @@
 package ObjectOrientedProgramming2;
-
-public interface Diagnosed {
+public interface EngineCheckable {
     public void checkEngine();
 }
